@@ -50,7 +50,7 @@ plt.show()
 
 ```
 ## Output
-<img width="732" height="516" alt="image" src="https://github.com/user-attachments/assets/975de65a-1bdd-4204-bceb-a57cb2347edd" />
+<img width="806" height="589" alt="Screenshot 2026-03-17 200151" src="https://github.com/user-attachments/assets/540365a0-422b-4608-9ec3-970cd9887e14" />
 <img width="732" height="516" alt="image" src="https://github.com/user-attachments/assets/ab4507a4-d4db-41e6-a2a0-e5e2d78af189" />
 
 ## Result
